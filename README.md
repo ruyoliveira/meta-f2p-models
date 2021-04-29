@@ -10,7 +10,7 @@ Here you will find the following:
   - Meta-f2p API: code generated from the meta-model using ecore-csharp framework. Needed to programatically instantiate new models using cross-ecore library inside a game project.
  - Summoners.gamemonetization: sample monetization model based on Summoners War game. It can also be edited inside the Game Monetization Editor(Eclipse Runtime Aplication) generated using EMF ecore tools.
 
-![Model Driven Game Monetization](Assets/Images/mdgd.png)
+![Model Driven Game Monetization](Figures/mdgd.png)
 
 
 ##IMPORTANT NOTES
